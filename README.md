@@ -144,5 +144,6 @@ Topics explored by the project include:
 - rendering.
 
 ## License
+Writing license
 
 A license has not yet been selected.
